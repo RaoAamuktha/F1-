@@ -1,0 +1,4 @@
+pair,P(i→j),P(j→i),asymmetry,dominant_direction
+Midfield Stabilizers / Volatile Drivers,0.166,0.505,0.339,Volatile Drivers→Midfield Stabilizers
+Midfield Stabilizers / Consistent Climbers,0.22,0.5,0.28,Consistent Climbers→Midfield Stabilizers
+Volatile Drivers / Consistent Climbers,0.067,0.053,0.014,Volatile Drivers→Consistent Climbers

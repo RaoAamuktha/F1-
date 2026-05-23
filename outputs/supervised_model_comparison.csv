@@ -1,0 +1,5 @@
+Model,MAE,RMSE,CV_MAE
+Naive baseline (qual = finish),4.194,5.785,—
+Linear Regression (single feature),4.07,5.124,—
+Linear Regression (multi-feature),3.154,3.932,3.202 ± 0.052
+Random Forest (multi-feature),2.606,3.494,2.567 ± 0.045

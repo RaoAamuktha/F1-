@@ -1,0 +1,14 @@
+﻿# FastF1 large cache files (exceeds GitHub limit)
+notebooks/fastf1_cache/fastf1_http_cache.sqlite
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
