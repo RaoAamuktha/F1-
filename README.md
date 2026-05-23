@@ -174,10 +174,4 @@ The notebook will execute all 54 cells, performing the complete analysis pipelin
 
 
 
-## 🌐 Contact
-
-- **Email**: manne.bharadwaj.1953@gmail.com
-- **LinkedIn**: [Bharadwaj Manne](https://www.linkedin.com/in/bharadwaj-manne-711476249/)
-- **GitHub**: [Bharadwaj-1953](https://github.com/Bharadwaj-1953)
-
 ---
